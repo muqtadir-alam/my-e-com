@@ -46,7 +46,7 @@ const getCategoryProducts = (categoryId: string) => {
       originalPrice: 699.99,
       rating: 4.9,
       reviews: 156,
-      image: "/placeholder-8dwki.png",
+      image: "/monitor-4k.webp",
       badge: "Sale",
       inStock: true,
       category: "Electronics",
